@@ -164,3 +164,8 @@ img/
 pretrain/
 train/
 cases/
+index.lock
+train_dataset.pkl
+train.pkl
+val_dataset.pkl
+val.pkl
